@@ -1,0 +1,29 @@
+{
+  "name": "discord-jeeves",
+  "version": "0.0.1",
+  "description": "A simple project implementing a Node JS bot for Discord with various functionality.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredTheDane/Discord-Jeeves.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Jeeves",
+    "DiscordIO"
+  ],
+  "author": "Frederik Madsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FredTheDane/Discord-Jeeves/issues"
+  },
+  "homepage": "https://github.com/FredTheDane/Discord-Jeeves#readme",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
